@@ -4,7 +4,7 @@ import { defaultGameConfig } from "./gameConfig";
 /**
  * 全局状态存储
  *
- * @author yupi
+ * @author hhh
  */
 export const useGlobalStore = defineStore("global", {
   state: () => ({
